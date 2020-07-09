@@ -1,4 +1,4 @@
-![](Hello.gif)
+<img src="https://github.com/guptabhaskar/guptabhaskar/Hello.gif" alt="alt text" width="100" height="100" />
 
 ### Hi there 👋
 
