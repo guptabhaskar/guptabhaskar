@@ -1,7 +1,5 @@
-<img src="https://github.com/guptabhaskar/guptabhaskar/Hello.gif" alt="alt text" width="100" height="100" />
-
+![](Hello.gif)
 ### Hi there 👋
-
 
 - 🔭 I’m currently working on JavaScript and Python
 - 🌱 I’m currently learning about uses of AI for Trading
