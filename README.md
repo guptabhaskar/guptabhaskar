@@ -1,4 +1,5 @@
-![](Hello.gif)
+<img src="https://github.com/guptabhaskar/guptabhaskar/blob/master/Hello.gif" width="100" height="100" />
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript and Python
