@@ -6,6 +6,3 @@
 - 📫 How to reach me: [Mail](mailto:bhaskar19237@iiitd.ac.in), [LinkedIn](https://www.linkedin.com/in/gupta-bhaskar)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cooking and gardening.
-
-![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptabhaskar&show_icons=true&theme=radical)
-
